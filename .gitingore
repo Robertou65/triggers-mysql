@@ -1,6 +1,0 @@
-.venv/
-.vscode/
-__pycache__/
-sql/__pycache__
-
-.env
