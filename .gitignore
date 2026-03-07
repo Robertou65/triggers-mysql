@@ -1,6 +1,7 @@
 .venv/
 .vscode/
 __pycache__/
-sql/__pycache__
+src/sql/__pycache__
 
+s.txt
 .env

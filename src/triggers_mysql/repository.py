@@ -4,8 +4,8 @@ from typing import TypeVar, Generic, List
 from mysql.connector.connection_cext import CMySQLConnection
 from mysql.connector import Error as mysql_error
 
-from model_clases import Blog, Notification
-from sql.queries import QueryLoader
+from .model_clases import Blog, Notification
+from .sql.queries import QueryLoader
 
 T = TypeVar('T')
 
